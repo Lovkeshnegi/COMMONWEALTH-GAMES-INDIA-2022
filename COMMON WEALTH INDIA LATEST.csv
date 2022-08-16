@@ -1,0 +1,62 @@
+ID,ATHELETE,CATEGORIES,MEDAL,GENDER,SPORTS,STATE
+1,Eldhose Paul,Mens Triple Jump,GOLD,MALE,ATHLETICS,KERALA
+2,Abdulla Aboobacker,Mens Triple Jump,SILVER,MALE,ATHLETICS,KERALA
+3,Avinash Sable,3000 m Steeplechase,SILVER,MALE,ATHLETICS,MAHARASHTRA
+4,Priyanka Goswami,Womens 10km Race Walk,SILVER,FEMALE,ATHLETICS,UTTAR PRADESH
+5,M Sreeshankar,Mens Long Jump,SILVER,MALE,ATHLETICS,KERALA
+6,Tejaswin Shankar,Mens High Jump,BRONZE,MALE,ATHLETICS,DELHI
+7,Annu Rani,Womens Javelin Throw,BRONZE,FEMALE,ATHLETICS,UTTAR PRADESH
+8,Sandeep Kumar,Mens 10km Race Walk,BRONZE,MALE,ATHLETICS,HARYANA
+9,PV Sindhu,Womens singles,GOLD,FEMALE,BADMINTON,HYDERABAD
+10,Lakshya Sen,Mens Singles,GOLD,MALE,BADMINTON,UTTARAKHAND
+11,"Kidambi Srikanth, Satwiksairaj Rankireddy, B Sumeeth Reddy, Lakshya Sen, Chirag Shetty, Treesa Jolly, Aakarshi Kashyap, Ashwini Ponnappa, Gayatri Gopichand, PV Sindhu",Mixed Team,SILVER,MIX,BADMINTON,MULTIPLE
+12,Treesa Jolly and Gayatri Gopichand,Womens Doubles,BRONZE,FEMALE,BADMINTON,MULTIPLE
+13,Kidambi Srikanth,Mens Singles,BRONZE,MALE,BADMINTON,ANDHRA PRADESH
+14,Nikhat Zareen,Womens 50kg,GOLD,FEMALE,BOXING,TELANGANA
+15,Nitu Ghanghas,Womens 48kg,GOLD,FEMALE,BOXING,HARYANA
+16,Amit Panghal,Mens 51kg,GOLD,MALE,BOXING,HARYANA
+17,Sagar Ahlawat,Men’s +92kg,SILVER,MALE,BOXING,HARYANA
+18,Rohit Tokas,Mens 67kg,BRONZE,MALE,BOXING,HARYANA
+19,Jaismine,Womens 60kg,BRONZE,FEMALE,BOXING,HARYANA
+20,Mohammed Hussamuddin,Mens 57kg,BRONZE,MALE,BOXING,TELEGANA
+21,Sushila Devi Likmabam,Womens 48kg,SILVER,FEMALE,JUDO,MANIPUR
+22,Tulika Maan,Womens +78kg,SILVER,FEMALE,JUDO,DELHI
+23,Vijay Kumar Yadav,Mens 60kg,BRONZE,MALE,JUDO,UTTAR PRADESH
+24,Sudhir,Mens Heavyweight,GOLD,MALE,Powerlifting,DELHI
+25,Saurav Ghosal,Mens Singles,BRONZE,MALE,Squash,KOLKATA
+26,Dipika Pallikal Karthik and Saurav Ghosal,Mixed Doubles,BRONZE,MIX,Squash,MULTIPLE
+27,Saikom Mirabai Chanu,Womens 49kg,GOLD,FEMALE,Weightlifting, IMPHAL
+28,Jeremy Lalrinnunga,Mens 67kg,GOLD,MALE,Weightlifting, MIZORAM
+29,Achinta Sheuli,Mens 73kg,GOLD,MALE,Weightlifting, WEST BENGAL
+30,Sanket Sargar,Mens 55kg,SILVER,MALE,Weightlifting,MAHARASHTRA
+31,Bindyarani Devi,Womens 55kg,SILVER,MALE,Weightlifting,IMPHAL
+32,Vikas Thakur,Mens 96kg,SILVER,MALE,Weightlifting,HIMACHAL PRADESH
+33,Gururaja Poojary,Mens 61kg,BRONZE,MALE,Weightlifting,KARNATKA
+34,Harjinder Kaur,Womens 71kg,BRONZE,FEMALE,Weightlifting,PUNJAB
+35,Lovepreet Singh,Mens 109kg,BRONZE,MALE,Weightlifting,PUNJAB
+36,Gurdeep Singh,Mens 109+kg,BRONZE,MALE,Weightlifting,PUNJAB
+37,Bajrang Punia,Mens 65kg,GOLD,MALE,Wrestling,HARYANA
+38,Sakshi Malik,Womens 62kg,GOLD,FEMALE,Wrestling,HARYANA
+39,Deepak Punia,Mens 86kg,GOLD,MALE,Wrestling,HARYANA
+40,Ravi Kumar Dahiya,Mens 57kg,GOLD,MALE,Wrestling,HARYANA
+41,Vinesh Phogat,Womens 53kg,GOLD,FEMALE,Wrestling,HARYANA
+42,Naveen,Mens 74kg,GOLD,MALE,Wrestling,HARYANA
+43,Anshu Malik,Womens 57kg,SILVER,FEMALE,Wrestling,HARYANA
+44,Divya Kakran,Womens 68kg,BRONZE,FEMALE,Wrestling,DELHI
+45,Mohit Grewal,Mens 125kg,BRONZE,MALE,Wrestling,HARYANA
+46,Pooja Gehlot,Womens 50kg,BRONZE,FEMALE,Wrestling,DELHI
+47,Pooja Sihag,Womens 76kg,BRONZE,FEMALE,Wrestling,HARYANA
+48,Deepak Nehra,Mens 97kg,BRONZE,MALE,Wrestling,DELHI
+49,Achanta Sharath Kamal and Sreeja Akula,Mixed Doubles ,GOLD,MIX,Table Tennis,MULTIPLE
+50,"Achanta Sharath Kamal, Sathiyan Gnanasekaran, Harmeet Desai, Sanil Shetty",Mens Team,GOLD,MALE,Table Tennis,MULTIPLE
+51,Bhavina Patel,Womens Singles Classes 3-5,GOLD,FEMALE,Table Tennis,GUJARAT
+52,Achanta Sharath Kamal,Mens Singles,GOLD,MALE,Table Tennis,TAMIL NADU
+53,Achanta Sharath Kamal and Sathiyan Gnanasekaran,Mens Doubles,SILVER,MALE,Table Tennis,MULTIPLE
+54,Sathiyan Gnanasekaran,Mens Singles,BRONZE,MALE,Table Tennis,TAMIL NADU
+55,Sonal Patel,Womens Singles Classes 3-5,BRONZE,FEMALE,Table Tennis,GUJARAT
+56,"Lovely Choubey, Rupa Rani Tirkey, Naynmoni Saikia, Pinki",Womens Fours,GOLD,FEMALE,Lawn Bowls,MULTIPLE
+57,"Chandan Kumar Singh, Dinesh Kumar, Navneet Singh, Sunil Bahadur",Mens Fours,SILVER,MALE,Lawn Bowls,MULTIPLE
+58,Indian Womens Cricket,Cricket T20,SILVER,FEMALE,Cricket,MULTIPLE
+59,Indian Womens Hockey,Womens Hockey,BRONZE,FEMALE,Hockey,MULTIPLE
+60,Indian Men Hockey,Mens Hockey,SILVER,MALE,Hockey,MULTIPLE
+61,Satwiksairaj Rankireddy and Chirag Shetty,Mens Doubles,GOLD,MALE,Badminton,MULTIPLE
